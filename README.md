@@ -3,6 +3,8 @@
 Here are my scattered notes on how I got the [Metrodroid](https://www.metrodroid.org/metrodroid/)
 app to work on my Android phones.
 
+Sometimes I need to check my CharlieCard cash balance without a T kiosk.
+
 I've personally confirmed the following phones work on GrapheneOS:
 * [Pixel 4a](https://en.wikipedia.org/wiki/Pixel_4a)
 * [Pixel 5a](https://en.wikipedia.org/wiki/Pixel_5a)
