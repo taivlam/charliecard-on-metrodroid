@@ -1,6 +1,12 @@
 # CharlieCard on Metrodroid
 
-(To be continued...)
+Here are my scattered notes on how I got the [Metrodroid](https://www.metrodroid.org/metrodroid/)
+app to work on my Android phones.
+
+I've personally confirmed the following phones work on GrapheneOS:
+* [Pixel 4a](https://en.wikipedia.org/wiki/Pixel_4a)
+* [Pixel 5a](https://en.wikipedia.org/wiki/Pixel_5a)
+* [Pixel 6a](https://en.wikipedia.org/wiki/Pixel_6a)
 
 ## Notes
 
